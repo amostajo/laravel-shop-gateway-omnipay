@@ -13,7 +13,7 @@
         "php": ">=5.4.0",
         "illuminate/console": "~5.0",
         "illuminate/support": "~5.0",
-        "omnipay/omnipay:": "~2.0"
+        "omnipay/omnipay": "2.0.*"
     },
     "require-dev": {
         "sami/sami": "dev-master"
