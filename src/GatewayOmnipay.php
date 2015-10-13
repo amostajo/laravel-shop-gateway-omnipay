@@ -3,7 +3,7 @@
 namespace Amostajo\LaravelShopGatewayOmnipay;
 
 /**
- * Gateway that adds PayPal payments to Laravel Shop.
+ * Gateway that adds Omnipay payments to Laravel Shop.
  *
  * @author Alejandro Mostajo
  * @copyright Amsgames, LLC
