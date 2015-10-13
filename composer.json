@@ -2,7 +2,7 @@
     "name": "amostajo/laravel-shop-gateway-omnipay",
     "description": "Omnipay gateway for Laravel Shop package.",
     "license": "MIT",
-    "keywords": ["laravel shop","gateway","laravel-shop","omnipay","2checkout","paypal","laravel","authorize.net"],
+    "keywords": ["laravel shop","gateway","laravel-shop","omnipay","2checkout","paypal","laravel","authorize.net","stripe"],
     "authors": [
         {
             "name": "Alejandro Mostajo",
