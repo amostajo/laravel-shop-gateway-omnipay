@@ -8,7 +8,7 @@ namespace Amostajo\LaravelShopGatewayOmnipay;
  * @author Alejandro Mostajo
  * @copyright Amsgames, LLC
  * @license MIT
- * @package Amsgames\LaravelShop
+ * @package Amostajo\LaravelShopGatewayOmnipay
  * @version 1.0.0
  */
 
@@ -48,8 +48,8 @@ class GatewayOmnipay extends PaymentGateway
     protected $approvalUrl = '';
 
     /**
-     * Approval URL to redirect to.
-     * @var string
+     * Additional options for authorize and purchase methods.
+     * @var array
      */
     protected $options = array();
 
