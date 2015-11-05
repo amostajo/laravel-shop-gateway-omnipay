@@ -19,6 +19,7 @@ This package comes with:
 ## Contents
 
 - [Installation](#installation)
+- [Adding a service](#adding-a-service)
 - [Gateway Usage](#gateway-usage)
     - [Accessing Omnipay](#accessing-omnipay)
     - [Adding Options](#adding-options)
@@ -44,6 +45,20 @@ Then in your `config/shop.php` add
 ```
     
 in the `gateways` array.
+
+## Adding a service
+
+Once installed, the next step will be to add the service of your choice in `composer.json` file.
+
+The services available are listed here:
+
+[https://github.com/thephpleague/omnipay#payment-gateways](https://github.com/thephpleague/omnipay#payment-gateways)
+
+For example, the following dependency must be added to use **Stripe**:
+
+```json
+"omnipay/stripe": "~2.0"
+```
 
 ## Gateway Usage
 
