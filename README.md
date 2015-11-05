@@ -1,5 +1,4 @@
 # OMNIPAY GATEWAY (for Laravel Shop Package)
---------------------------------
 
 [![Latest Stable Version](https://poser.pugx.org/amostajo/laravel-shop-gateway-omnipay/v/stable)](https://packagist.org/packages/amostajo/laravel-shop-gateway-omnipay)
 [![Total Downloads](https://poser.pugx.org/amostajo/laravel-shop-gateway-omnipay/downloads)](https://packagist.org/packages/amostajo/laravel-shop-gateway-omnipay)
